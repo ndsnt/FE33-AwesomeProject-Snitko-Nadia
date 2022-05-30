@@ -1,0 +1,45 @@
+.heading{
+    width:1400px; 
+    padding: 10 px 0;
+}
+
+.heading-wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 116px;
+    padding: 0px;
+    gap: 34px;  
+}
+
+
+.awesome-line {
+    width: 64px;
+    border: 2px;
+    top: 86px;
+    left: 668px;
+    border-bottom: 1px solid #E72424;
+    flex: none;
+    flex-grow: 0;
+}
+
+h2.title {
+    font-family: Raleway;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: #212121;
+}
+
+.description p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #86878B;
+}
